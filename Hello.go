@@ -1,4 +1,4 @@
-package TestGoModule
+package github.com/AidanLiu/TestGoModule
 
 import "fmt"
 
