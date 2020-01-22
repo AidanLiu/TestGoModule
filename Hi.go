@@ -1,4 +1,4 @@
-package HelloHi
+package TestGoModule
 
 import "fmt"
 
