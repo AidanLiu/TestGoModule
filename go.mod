@@ -1,3 +1,3 @@
-module github.com/AidanLiu/TestGoModule
+module TestGoModule
 
 go 1.13
